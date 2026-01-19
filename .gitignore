@@ -14,7 +14,8 @@
 *.tax2010
 *.vcf
 *.xml
-
+*.gz
+data/
 ### Images ###
 # JPEG
 *.jpg
