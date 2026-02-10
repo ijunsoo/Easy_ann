@@ -1,0 +1,186 @@
+{
+  "CPU": [
+    {
+      "neurons": 32,
+      "layers": 2,
+      "params": 26506,
+      "avg_train": 0.32178,
+      "std_train": 0.00754,
+      "avg_infer": 0.00496,
+      "std_infer": 0.00069,
+      "avg_accuracy": 89.51
+    },
+    {
+      "neurons": 32,
+      "layers": 3,
+      "params": 27562,
+      "avg_train": 0.37087,
+      "std_train": 0.00617,
+      "avg_infer": 0.00512,
+      "std_infer": 0.00077,
+      "avg_accuracy": 84.61
+    },
+    {
+      "neurons": 32,
+      "layers": 5,
+      "params": 29674,
+      "avg_train": 0.47222,
+      "std_train": 0.01258,
+      "avg_infer": 0.0062,
+      "std_infer": 0.0008,
+      "avg_accuracy": 20.7
+    },
+    {
+      "neurons": 64,
+      "layers": 2,
+      "params": 55050,
+      "avg_train": 0.35027,
+      "std_train": 0.00528,
+      "avg_infer": 0.00602,
+      "std_infer": 0.0003,
+      "avg_accuracy": 89.99
+    },
+    {
+      "neurons": 64,
+      "layers": 3,
+      "params": 59210,
+      "avg_train": 0.40642,
+      "std_train": 0.00899,
+      "avg_infer": 0.00663,
+      "std_infer": 0.00031,
+      "avg_accuracy": 87.47
+    },
+    {
+      "neurons": 64,
+      "layers": 5,
+      "params": 67530,
+      "avg_train": 0.51973,
+      "std_train": 0.01224,
+      "avg_infer": 0.00759,
+      "std_infer": 0.00015,
+      "avg_accuracy": 27.0
+    },
+    {
+      "neurons": 128,
+      "layers": 2,
+      "params": 118282,
+      "avg_train": 0.40553,
+      "std_train": 0.00893,
+      "avg_infer": 0.00913,
+      "std_infer": 0.00047,
+      "avg_accuracy": 90.29
+    },
+    {
+      "neurons": 128,
+      "layers": 3,
+      "params": 134794,
+      "avg_train": 0.48562,
+      "std_train": 0.01283,
+      "avg_infer": 0.01034,
+      "std_infer": 0.00036,
+      "avg_accuracy": 88.11
+    },
+    {
+      "neurons": 128,
+      "layers": 5,
+      "params": 167818,
+      "avg_train": 0.63166,
+      "std_train": 0.00779,
+      "avg_infer": 0.01249,
+      "std_infer": 0.0005,
+      "avg_accuracy": 32.78
+    }
+  ],
+  "GPU": [
+    {
+      "neurons": 32,
+      "layers": 2,
+      "params": 26506,
+      "avg_train": 0.69956,
+      "std_train": 0.04428,
+      "avg_infer": 0.00591,
+      "std_infer": 0.0064,
+      "avg_accuracy": 89.46
+    },
+    {
+      "neurons": 32,
+      "layers": 3,
+      "params": 27562,
+      "avg_train": 0.83941,
+      "std_train": 0.03147,
+      "avg_infer": 0.00431,
+      "std_infer": 0.00068,
+      "avg_accuracy": 84.97
+    },
+    {
+      "neurons": 32,
+      "layers": 5,
+      "params": 29674,
+      "avg_train": 1.15067,
+      "std_train": 0.0432,
+      "avg_infer": 0.00504,
+      "std_infer": 0.00064,
+      "avg_accuracy": 19.21
+    },
+    {
+      "neurons": 64,
+      "layers": 2,
+      "params": 55050,
+      "avg_train": 0.67577,
+      "std_train": 0.03672,
+      "avg_infer": 0.0042,
+      "std_infer": 0.00036,
+      "avg_accuracy": 90.12
+    },
+    {
+      "neurons": 64,
+      "layers": 3,
+      "params": 59210,
+      "avg_train": 0.86169,
+      "std_train": 0.02839,
+      "avg_infer": 0.00483,
+      "std_infer": 0.00068,
+      "avg_accuracy": 87.65
+    },
+    {
+      "neurons": 64,
+      "layers": 5,
+      "params": 67530,
+      "avg_train": 1.10874,
+      "std_train": 0.05388,
+      "avg_infer": 0.00491,
+      "std_infer": 0.00055,
+      "avg_accuracy": 20.43
+    },
+    {
+      "neurons": 128,
+      "layers": 2,
+      "params": 118282,
+      "avg_train": 0.69607,
+      "std_train": 0.02289,
+      "avg_infer": 0.00459,
+      "std_infer": 0.00053,
+      "avg_accuracy": 90.51
+    },
+    {
+      "neurons": 128,
+      "layers": 3,
+      "params": 134794,
+      "avg_train": 0.95649,
+      "std_train": 0.03642,
+      "avg_infer": 0.00509,
+      "std_infer": 0.00095,
+      "avg_accuracy": 88.52
+    },
+    {
+      "neurons": 128,
+      "layers": 5,
+      "params": 167818,
+      "avg_train": 1.25094,
+      "std_train": 0.07963,
+      "avg_infer": 0.00602,
+      "std_infer": 0.00093,
+      "avg_accuracy": 22.64
+    }
+  ]
+}

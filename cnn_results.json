@@ -1,0 +1,186 @@
+{
+  "CPU": [
+    {
+      "filters": 32,
+      "layers": 2,
+      "params": 1625866,
+      "avg_train": 15.03275,
+      "std_train": 0.32992,
+      "avg_infer": 1.1736,
+      "std_infer": 0.01966,
+      "avg_accuracy": 93.04
+    },
+    {
+      "filters": 32,
+      "layers": 3,
+      "params": 3305354,
+      "avg_train": 27.35287,
+      "std_train": 1.05138,
+      "avg_infer": 1.71438,
+      "std_infer": 0.09224,
+      "avg_accuracy": 93.93
+    },
+    {
+      "filters": 32,
+      "layers": 5,
+      "params": 1192074,
+      "avg_train": 45.24211,
+      "std_train": 1.85424,
+      "avg_infer": 3.01969,
+      "std_infer": 0.18452,
+      "avg_accuracy": 89.25
+    },
+    {
+      "filters": 64,
+      "layers": 2,
+      "params": 3287178,
+      "avg_train": 50.80949,
+      "std_train": 0.03099,
+      "avg_infer": 3.56711,
+      "std_infer": 0.03028,
+      "avg_accuracy": 93.92
+    },
+    {
+      "filters": 64,
+      "layers": 3,
+      "params": 6793610,
+      "avg_train": 90.0575,
+      "std_train": 0.75536,
+      "avg_infer": 5.60096,
+      "std_infer": 0.02553,
+      "avg_accuracy": 94.74
+    },
+    {
+      "filters": 64,
+      "layers": 5,
+      "params": 3156874,
+      "avg_train": 167.56434,
+      "std_train": 0.20478,
+      "avg_infer": 10.05698,
+      "std_infer": 0.02543,
+      "avg_accuracy": 91.64
+    },
+    {
+      "filters": 128,
+      "layers": 2,
+      "params": 6720394,
+      "avg_train": 168.3486,
+      "std_train": 0.10171,
+      "avg_infer": 11.06435,
+      "std_infer": 0.05374,
+      "avg_accuracy": 95.09
+    },
+    {
+      "filters": 128,
+      "layers": 3,
+      "params": 14323082,
+      "avg_train": 324.75583,
+      "std_train": 28.28584,
+      "avg_infer": 19.33624,
+      "std_infer": 1.62235,
+      "avg_accuracy": 95.85
+    },
+    {
+      "filters": 128,
+      "layers": 5,
+      "params": 9408906,
+      "avg_train": 596.85719,
+      "std_train": 19.62236,
+      "avg_infer": 34.02829,
+      "std_infer": 2.28958,
+      "avg_accuracy": 93.78
+    }
+  ],
+  "GPU": [
+    {
+      "filters": 32,
+      "layers": 2,
+      "params": 1625866,
+      "avg_train": 1.32826,
+      "std_train": 0.08668,
+      "avg_infer": 0.11012,
+      "std_infer": 0.00232,
+      "avg_accuracy": 92.08
+    },
+    {
+      "filters": 32,
+      "layers": 3,
+      "params": 3305354,
+      "avg_train": 1.94578,
+      "std_train": 0.00326,
+      "avg_infer": 0.14663,
+      "std_infer": 0.00064,
+      "avg_accuracy": 93.43
+    },
+    {
+      "filters": 32,
+      "layers": 5,
+      "params": 1192074,
+      "avg_train": 2.89798,
+      "std_train": 0.00294,
+      "avg_infer": 0.21406,
+      "std_infer": 0.00073,
+      "avg_accuracy": 91.32
+    },
+    {
+      "filters": 64,
+      "layers": 2,
+      "params": 3287178,
+      "avg_train": 3.57357,
+      "std_train": 0.00154,
+      "avg_infer": 0.23183,
+      "std_infer": 0.00085,
+      "avg_accuracy": 93.04
+    },
+    {
+      "filters": 64,
+      "layers": 3,
+      "params": 6793610,
+      "avg_train": 5.55465,
+      "std_train": 0.01204,
+      "avg_infer": 0.33221,
+      "std_infer": 0.00061,
+      "avg_accuracy": 93.97
+    },
+    {
+      "filters": 64,
+      "layers": 5,
+      "params": 3156874,
+      "avg_train": 8.61852,
+      "std_train": 0.0112,
+      "avg_infer": 0.53665,
+      "std_infer": 0.00121,
+      "avg_accuracy": 92.39
+    },
+    {
+      "filters": 128,
+      "layers": 2,
+      "params": 6720394,
+      "avg_train": 9.85281,
+      "std_train": 0.04088,
+      "avg_infer": 0.56255,
+      "std_infer": 0.00072,
+      "avg_accuracy": 93.88
+    },
+    {
+      "filters": 128,
+      "layers": 3,
+      "params": 14323082,
+      "avg_train": 16.19488,
+      "std_train": 0.00545,
+      "avg_infer": 0.87819,
+      "std_infer": 0.00103,
+      "avg_accuracy": 95.07
+    },
+    {
+      "filters": 128,
+      "layers": 5,
+      "params": 9408906,
+      "avg_train": 28.11489,
+      "std_train": 0.05401,
+      "avg_infer": 1.53465,
+      "std_infer": 0.0012,
+      "avg_accuracy": 93.62
+    }
+  ]
+}
